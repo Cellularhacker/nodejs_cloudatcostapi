@@ -11,7 +11,7 @@ You need to create "cloudatcostAPI_KEY.js" file at same directory which "cloudat
 ###Example cloudatcostAPI_KEY.js file
 ```Node
 module.exports = {
-    "KEY" : "[YOUR_KEY_CAN_GET_IT_AT_SETTINGS_PANEL]",
-    "login" : "[youraccount@withfull_email_address.com]"
+    "KEY" : "YOUR_KEY_CAN_GET_IT_AT_SETTINGS_PANEL",
+    "login" : "youraccount@withfull_email_address.com"
 };
 ```
